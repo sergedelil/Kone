@@ -22,6 +22,7 @@ public class PremierProjet {
         System.out.println(args[1]);
         String str = "426.75$";
         System.out.println(str.substring(6, 7));
+        System.out.println("deuxieme ajout");
          
     }
     
