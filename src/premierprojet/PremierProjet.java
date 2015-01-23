@@ -24,6 +24,7 @@ public class PremierProjet {
         System.out.println(str.substring(6, 7));
         System.out.println("deuxieme ajout");
         System.out.println("k,kh");
+        System.out.println("ajout de wilfried cyrille");
          
     }
     
